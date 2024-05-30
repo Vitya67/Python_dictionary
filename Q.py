@@ -17,7 +17,7 @@ def find_countries_for_cities(country_data, city_queries):
     return results
 
 def main():
-    # Вхідні дані
+    
     country_data = [
         "Germany Berlin Hamburg Munich Dortmund",
         "Ukraine Kyiv Lviv Odessa"
